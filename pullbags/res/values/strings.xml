@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pullbags</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">PullBags</string>
+    <string-array name="category">
+        <item >Gazets</item>
+        <item >Furniture</item>
+        <item >Home Accesories</item>
+        <item >Cloths</item>
+        <item>Gifts</item>
+    </string-array>
+     <string name="drawer_open">Choose Category</string>
+    <string name="drawer_close">PullBags</string>
+    <string name="hello">Hii</string>
+</resources>
